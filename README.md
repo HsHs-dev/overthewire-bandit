@@ -1,6 +1,6 @@
 # OverTheWire Challenges
 
-First 15 Bandit Wargames from OverTheWire can be a good way to learn linux basics along with dealing with SSH especially if you don't have an access to a remote machine.
+First 15 [Bandit Wargames](https://overthewire.org/wargames/bandit/) from OverTheWire can be a good way to learn linux basics along with dealing with `SSH` especially if you don't have an access to a remote machine.
 
 ## Bandit Level 0
 
